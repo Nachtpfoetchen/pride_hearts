@@ -24,4 +24,5 @@ Created with inkscape. If you want to use my designs with an other license pleas
 
 
 PNG files: 512 x 512 pixel 96 dpi
+
 SVG files: Heart on transparent canvas 512 x 512 pixel 
