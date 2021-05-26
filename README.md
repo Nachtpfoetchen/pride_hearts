@@ -15,6 +15,7 @@ Currently supported pride flags:
 - lesbian
 - neutrois
 - non-binairy
+- pan
 - polysexual
 - rainbow
 - trans
