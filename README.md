@@ -2,7 +2,7 @@
 
 A set of pride hearts. All flags are available as SVG and PNG files.
 
-Currently supported pride flags:
+Currently included pride flags:
 - ace
 - agender
 - aro
