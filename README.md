@@ -20,3 +20,7 @@ Currently supported pride flags:
 - trans
 
 Created with inkscape. If you want to use my designs with an other license please send me a message ask and we might come to a common ground. :)
+
+
+PNG files: 512 x 512 pixel 96 dpi
+SVG files: Heart on transparent canvas 512 x 512 pixel 
