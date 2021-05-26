@@ -4,6 +4,7 @@ A set of pride hearts. All flags are available as SVG and PNG files.
 
 Currently supported pride flags:
 - ace
+- agender
 - aro
 - bi
 - demiboy
